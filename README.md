@@ -1,4 +1,4 @@
-# PythonAIML
+# Python-AIML
 Final AI-ML assignment
 
 Submit any 2 of the following -
