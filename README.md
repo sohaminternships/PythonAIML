@@ -1,17 +1,20 @@
 # Python-AIML
 Final AI-ML assignment
 
-Submit any 2 of the following -
+Compulsory
 
 1] 
-Study the CSV dataset of movies and the result of Machine learning algorithm in the jupyter notebook.
+Run and Study the CSV dataset of movies and the result of Machine learning algorithm.
 Create similar algorithm for mobile model recommendation system on the basis of age, gender and monthly income
 
 labels -> age, gender and income
 
-recommendation -> samsung, apple, realme
+rediction result -> samsung, apple, realme
 
-Download the sample CSV file and IPYNB file for reference and develop your ML model
+Download the sample CSV file and Python program file for reference and develop your ML model
+
+
+Submit any 1 of the following -
 
 2] 
 Create a contacts table in the database with following fields -
